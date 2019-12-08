@@ -1,3 +1,5 @@
+Version Française [ici](speakerTermsFR.md).
+
 # Speaker terms and conditions for Android Makers 2020
 
 On behalf of myself and my company/organisation, ("Organisation") and in consideration of my participation in the Event, I grant Android Makers (and its designated contractors), and its subsidiaries and affiliates under common control ("Android Makers") the following permissions in connection with Android Makers, which are scheduled to take place 23rd to 24th of April, 2018 (the "Event"):
@@ -10,7 +12,7 @@ I understand that neither my Organisation nor I will receive any compensation fo
 
 I undertake in each of my presentations to strictly comply with the principles of non-discrimination, the opinions of each, the gender diversity, race and religion, and not to harm the image of others. I understand that any breach of the principles set out above will cause my exclusion from the conference, without any form of compensation.
 
-(1) I am the person who is accepting the invitation to present the session listed above;
-(2) grant this permission and agree to the terms and conditions set forth above on behalf of my Organisation and myself;
-(3) have authority to agree to such terms and conditions on behalf of my Organisation or co-speaker; and
-(4) confirm that no further consents or permissions are required by Android Makers in order to use the Presentation Materials.
+1. I am the person who is accepting the invitation to present the session listed above;
+2. grant this permission and agree to the terms and conditions set forth above on behalf of my Organisation and myself;
+3. have authority to agree to such terms and conditions on behalf of my Organisation or co-speaker; and
+4. confirm that no further consents or permissions are required by Android Makers in order to use the Presentation Materials.

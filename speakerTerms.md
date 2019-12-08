@@ -2,7 +2,7 @@ Version Française [ici](speakerTermsFR.md).
 
 # Speaker terms and conditions for Android Makers 2020
 
-On behalf of myself and my company/organisation, ("Organisation") and in consideration of my participation in the Event, I grant Android Makers (and its designated contractors), and its subsidiaries and affiliates under common control ("Android Makers") the following permissions in connection with Android Makers, which are scheduled to take place 23rd to 24th of April, 2018 (the "Event"):
+On behalf of myself and my company/organisation, ("Organisation") and in consideration of my participation in the Event, I grant Android Makers (and its designated contractors), and its subsidiaries and affiliates under common control ("Android Makers") the following permissions in connection with Android Makers, which are scheduled to take place on 20th and 21st of April, 2020 (the "Event"):
 
 - Permission to use my name, biographic material, likeness, and portrait (hereinafter collectively referred to as my "Likeness") for the purpose of publicising my presentation(s) at/participation in the Event (my "Presentation").
 - Permission to make sound and visual recordings of my Presentation (the "Recordings").

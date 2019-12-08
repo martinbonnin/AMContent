@@ -1,6 +1,7 @@
 # Conditions générales Android Makers 2020 pour les conférenciers
 
 J'autorise Android Makers, l'association loi 1901 Paris Android User Group et la société BeMyApp, co-organisateurs de Android Makers (et leurs contractants), en mon nom et au nom de ma société/organisation, en considération de ma participation comme présentateur à la conférence Android Makers :
+
     - la permission d'utiliser mon nom, mes références biographiques, ma photo, en vue de publication sur le site Internet de la conférence, dans la partie programme
     - la permission d'enregistrer et de mettre en ligne gratuitement sur le site Youtube.com, ma ou mes présentations, sans que cela ne donne droit à une retribution
     - la permission de copier, diffuser, utiliser, traduire tout ou partie de ma (mes) présentation(s), ainsi que de mes supports de présentation

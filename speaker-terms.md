@@ -1,4 +1,4 @@
-Version Française [ici](speakerTermsFR.md).
+Version Française [ici](speaker-terms-fr.md).
 
 # Speaker terms and conditions for Android Makers 2020
 
